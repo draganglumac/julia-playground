@@ -1,2 +1,2 @@
-My foray into Julia [julialang.org]
+My foray into Julia [julialang.org|julialang.org]
 
